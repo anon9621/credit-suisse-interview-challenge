@@ -1,0 +1,4 @@
+{"id": "a", "state": "STARTED", "timestamp": 1491377495213}
+{"id": "b", "state": "STARTED", "timestamp": 1491377495214}
+{"id": "a", "state": "FINISHED", "timestamp": 1491377495215}
+{"id": "b", "state": "FINISHED", "timestamp": 1491377495217}

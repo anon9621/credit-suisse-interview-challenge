@@ -1,0 +1,9 @@
+.gradle/
+.idea/
+build/
+eventsdb
+eventsdb.log
+eventsdb.properties
+eventsdb.script
+eventsdb.tmp/
+eventsdb.lck
